@@ -1,0 +1,17 @@
+{
+  "skill_name": "write-like-jerry",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Reply in my style to Sam in an existing email thread. Tuesday at 2 pm works for me. No signature needed.",
+      "expected_output": "A brief direct confirmation with no invented context or signature.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Write an email in my style to a local class organizer asking whether any beginner places remain and what the fee is. Do not invent details about my experience.",
+      "expected_output": "A polite purpose-first inquiry, concise paragraphs, concrete questions, and no invented experience.",
+      "files": []
+    }
+  ]
+}
